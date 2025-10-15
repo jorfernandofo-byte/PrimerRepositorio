@@ -12,3 +12,8 @@ function multiplicacion (a,b){
 let resul= a*b;
 return resul;
 }         // multiplicacion
+
+function division (a,b){
+let resul= a/b;
+return resul;
+}         // division
