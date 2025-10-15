@@ -7,3 +7,8 @@ function resta (a,b){
 let resul= a-b;
 return resul;
 }         // Resta
+
+function multiplicacion (a,b){
+let resul= a*b;
+return resul;
+}         // multiplicacion
